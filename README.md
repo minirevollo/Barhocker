@@ -2,7 +2,7 @@
 
 Ein Design für ein stapelbaren Hocker, der mit einer kleinen Fräse produziert werden kann. Wir haben im erfindergarden nur eine Stepcraft mit einem Arbeitsbereich von ca 40 x 55 cm. Die einzelnen Bauteile dürfen dieses Maße also nicht überschreiten.
 
-<img src="IMG/Barhocker.JPG" width = "80%" />
+<img src="IMG/Barhocker.jpg" width = "80%" />
 
 ## Design
 
@@ -14,5 +14,5 @@ Zusammengehalten wird das ganze durch einen Handelsüblichen Spanngurt, farblich
 
 Bis jetzt wurde nur ein Modell im Maßstab 1:3 mit dem Lastercutter aus 4mm Birkensperrholz angefertigt. Die Realisation in 1:1 steht noch aus.
 
-<img src="IMG/Barhocker_Modell_1.JPG" width = "50%" />
-<img src="IMG/Barhocker_Modell_2.JPG" width = "50%" />
+<img src="IMG/Barhocker_Modell_1.jpg" width = "50%" />
+<img src="IMG/Barhocker_Modell_2.jpg" width = "50%" />

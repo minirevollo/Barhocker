@@ -4,7 +4,7 @@ Ein Design für ein stapelbaren Hocker, der mit einer kleinen Fräse produziert 
 
 <img src="IMG/Barhocker.JPG" width = "80%" />
 
-##Design
+## Design
 
 Gefertigt wird der Hocker aus 12 mm Funiersperrholz. Die Verbindungen werden klassisch durch gesteckte Keile gehalten. Der Hocker ist somit zerlegbar und leich zu transportieren. 
 Die Sitzfläche wird aus einzelnen Holzstäben und einer Lastwagenplane gefertigt. Die Holzstäbe werden hierfür auf die Plane geklebt.
